@@ -19,4 +19,4 @@ A modern and responsive Nike Shoes landing page built using **HTML, CSS, and Jav
 ## 💻 How to Run the Project?
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/nike-shoes-landing-page.git
+   git clone https://github.com/Farhankhann56/nike-shoes-webpagepage.git
